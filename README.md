@@ -1,7 +1,7 @@
 # Hi there, I'm Abhishek Phukan 👋
 
 **Python Automation Developer · Web Scraping · Business Websites**
-📍 Digboi, Assam, India — Freelance, new on Fiverr (Nov 2026)
+🌍 Working remotely with clients online — Freelance, new on Fiverr (Nov 2026)
 
 ## 🚀 About Me
 
