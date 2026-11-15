@@ -26,6 +26,7 @@
 
 - **[python-web-scraper](https://github.com/lenevo02487/python-web-scraper)** — Live demo scraper: pulls book titles, prices and ratings from books.toscrape.com into a clean CSV file. *(Python · requests · BeautifulSoup)*
 - **[gst-invoice-generator](https://github.com/lenevo02487/gst-invoice-generator)** — Python tool that generates GST invoices with automatic tax math; verified sample invoice totals ₹15,522. *(Python)*
+- **[csv-data-cleaner](https://github.com/lenevo02487/csv-data-cleaner)** — Cleans messy CSV files in one command: trims spaces, drops blank and duplicate rows, normalizes dates to YYYY-MM-DD. Pure Python, zero dependencies. *(Python)*
 - **[business-website-demos](https://github.com/lenevo02487/business-website-demos)** — Hand-coded business website & landing page demos with enquiry and WhatsApp buttons. *(HTML · CSS · JavaScript)*
 - **[content-pack-system](https://github.com/lenevo02487/content-pack-system)** — A 15-post social media content pack system for small businesses (posts + CSV calendar). *(Content)*
 - **Khali Dimaag** *(in progress)* — A self-built learning brain: licensed data only, WAVE + SUTRA, no weights. *(Python)*
