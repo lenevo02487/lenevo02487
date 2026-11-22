@@ -35,6 +35,8 @@
 
 - **Python web scraper or automation script — from $15** → https://www.fiverr.com/lenevo509/build-a-python-web-scraper-or-automation-script-for-you
 - **Business website or landing page — from $80** → https://www.fiverr.com/lenevo509/build-a-clean-business-website-or-landing-page-for-you
+- **AI UGC video ads for your product or brand — from $25** → https://www.fiverr.com/lenevo509/create-viral-ai-ugc-video-ads-for-your-product-or-brand
+- **Faceless YouTube Shorts & Reels with voiceover and captions — from $25** → https://www.fiverr.com/lenevo509/create-faceless-youtube-shorts-and-reels-with-voiceover-and-captions
 - 🛒 Also on Gumroad: https://abhiphukan.gumroad.com
 
 Send me a sample page, file or task — I'll show you a small working demo before you spend anything.
